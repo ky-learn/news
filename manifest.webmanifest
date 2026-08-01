@@ -1,0 +1,19 @@
+{
+  "name": "我的账本",
+  "short_name": "账本",
+  "description": "离线记账本：记账、照片凭证、按月/按年统计、导出 CSV、数据备份",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef4ea",
+  "theme_color": "#3d6147",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
