@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" viewBox="0 0 192 192">
+  <rect width="192" height="192" rx="42" fill="#3d6147"/>
+  <circle cx="96" cy="96" r="56" fill="#e7f0e4"/>
+  <text x="96" y="118" font-size="74" text-anchor="middle" fill="#3f6b46" font-family="-apple-system,'PingFang SC','Microsoft YaHei',sans-serif" font-weight="800">¥</text>
+  <path d="M40 150 Q96 120 152 150" stroke="#5a8c5f" stroke-width="8" fill="none" stroke-linecap="round"/>
+</svg>
